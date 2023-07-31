@@ -1,0 +1,1130 @@
+[
+  {
+    "name": "Merek",
+    "tier": "common",
+    "faction": "lightbearer",
+    "type": "intelligence"
+  },
+  {
+    "name": "Ulric",
+    "tier": "common",
+    "faction": "lightbearer",
+    "type": "strength"
+  },
+  {
+    "name": "Hogan",
+    "tier": "legendary",
+    "faction": "lightbearer",
+    "type": "strength"
+  },
+  {
+    "name": "Angelo",
+    "tier": "legendary",
+    "faction": "lightbearer",
+    "type": "intelligence"
+  },
+  {
+    "name": "Morvus",
+    "tier": "legendary",
+    "faction": "lightbearer",
+    "type": "agility"
+  },
+  {
+    "name": "Mirael",
+    "tier": "legendary",
+    "faction": "lightbearer",
+    "type": "intelligence"
+  },
+  {
+    "name": "Estrilda",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Belinda",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Raine",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "support"
+  },
+  {
+    "name": "Fawkes",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Lucius",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Thane",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Hendrik",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Rowan",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Gwyneth",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "ranger"
+  },
+  {
+    "name": "Rosaline",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Cecilia",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Rigby",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Oscar",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Eluard",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Peggy",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Walker",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Morrow",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Scarlet",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Thane",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "ranger",
+    "awakened": true
+  },
+  {
+    "name": "Sonja",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "agility",
+    "class": "tank"
+  },
+  {
+    "name": "Palmer",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Belinda",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "intelligence",
+    "class": "mage",
+    "awakened": true
+  },
+  {
+    "name": "Ginneas",
+    "tier": "ascended",
+    "faction": "lightbearer",
+    "type": "strength",
+    "class": "tank"
+  },
+
+  {
+    "name": "Bloodsnarl",
+    "tier": "common",
+    "faction": "mauler",
+    "type": "strength"
+  },
+  {
+    "name": "Arkadios",
+    "tier": "common",
+    "faction": "mauler",
+    "type": "intelligence"
+  },
+  {
+    "name": "Ankhira",
+    "tier": "legendary",
+    "faction": "mauler",
+    "type": "intelligence"
+  },
+  {
+    "name": "Golus",
+    "tier": "legendary",
+    "faction": "mauler",
+    "type": "strength"
+  },
+  {
+    "name": "Saveas",
+    "tier": "legendary",
+    "faction": "mauler",
+    "type": "agility"
+  },
+  {
+    "name": "Brutus",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Khasos",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Vurk",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Numisu",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Skreg",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Warek",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Antandra",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Safiya",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Satrana",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Tidus",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Drez",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Skriath",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Anoki",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Kren",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Thali",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Granit",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Thesku",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Alaro",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "support"
+  },
+  {
+    "name": "Anasta",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Brutus",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "warrior",
+    "awakened": true
+  },
+  {
+    "name": "Salaki",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Crassio",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Safiya",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "intelligence",
+    "class": "support",
+    "awakened": true
+  },
+  {
+    "name": "Naroko",
+    "tier": "ascended",
+    "faction": "mauler",
+    "type": "strength",
+    "class": "tank"
+  },
+
+  {
+    "name": "Dreaf",
+    "tier": "common",
+    "faction": "wilder",
+    "type": "intelligence"
+  },
+  {
+    "name": "Eletha",
+    "tier": "common",
+    "faction": "wilder",
+    "type": "strength"
+  },
+  {
+    "name": "Ira",
+    "tier": "legendary",
+    "faction": "wilder",
+    "type": "agility"
+  },
+  {
+    "name": "Ogi",
+    "tier": "legendary",
+    "faction": "wilder",
+    "type": "strength"
+  },
+  {
+    "name": "Arden",
+    "tier": "legendary",
+    "faction": "wilder",
+    "type": "intelligence"
+  },
+  {
+    "name": "Nemora",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Kaz",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Lyca",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Tasi",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Ulmus",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Seirus",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Eironn",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Gorvo",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Lorsan",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Saurus",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Solise",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Pippa",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Respen",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Raku",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Mishka",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Astar",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Oku",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Eorin",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Solise",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "support",
+    "awakened": true
+  },
+  {
+    "name": "Nevanthi",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Tamrus",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Trishea",
+    "tier": "ascended",
+    "faction": "wilder",
+    "type": "intelligence",
+    "class": "mage"
+  },
+
+  {
+    "name": "Steixius",
+    "tier": "common",
+    "faction": "graveborn",
+    "type": "strength"
+  },
+  {
+    "name": "Sezis",
+    "tier": "common",
+    "faction": "graveborn",
+    "type": "strength"
+  },
+  {
+    "name": "Niru",
+    "tier": "legendary",
+    "faction": "graveborn",
+    "type": "intelligence"
+  },
+  {
+    "name": "Silvina",
+    "tier": "legendary",
+    "faction": "graveborn",
+    "type": "agility"
+  },
+  {
+    "name": "Vedan",
+    "tier": "legendary",
+    "faction": "graveborn",
+    "type": "agility"
+  },
+  {
+    "name": "Grezhul",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Shemira",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Thoran",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Isabella",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Nara",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Ferael",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Baden",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Kelthur",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Silas",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Oden",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Izold",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Torne",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Daimon",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Theowyn",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Desira",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Hodgkin",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Treznor",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Fane",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "agility",
+    "class": "support"
+  },
+  {
+    "name": "Kalene",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Baden",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "ranger",
+    "awakened": true
+  },
+  {
+    "name": "Edwin",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Ivan",
+    "tier": "ascended",
+    "faction": "graveborn",
+    "type": "intelligence",
+    "class": "support"
+  },
+
+  {
+    "name": "Athalia",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Elijah & Lailah",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Orthros",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Talene",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "support"
+  },
+  {
+    "name": "Wu Kong",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Flora",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Zaphrael",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Alna",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Morael",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Titus",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Haelus",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Talene",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "tank",
+    "awakened": true
+  },
+  {
+    "name": "Audrae",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Tarnos",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "Veithael",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "tank"
+  },
+  {
+    "name": "Athalia",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "agility",
+    "class": "warrior",
+    "awakened": true
+  },
+  {
+    "name": "Daemia",
+    "tier": "ascended",
+    "faction": "celestial",
+    "type": "intelligence",
+    "class": "mage"
+  },
+
+  {
+    "name": "Ezizh",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "strength",
+    "class": "support"
+  },
+  {
+    "name": "Mehira",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Zolrath",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Khazard",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Mezoth",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Lucretia",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Mortas",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "support"
+  },
+  {
+    "name": "Leofric",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Zikis",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Framton",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Ezizh",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "mage",
+    "awakened": true
+  },
+  {
+    "name": "Vyloris",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Canisa & Ruke",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Olgath",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Maetria",
+    "tier": "ascended",
+    "faction": "hypogean",
+    "type": "intelligence",
+    "class": "mage"
+  },
+
+  {
+    "name": "Nakoruru",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Arthur",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Ukyo",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Ezio",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Prince of Persia",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Albedo",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "strength",
+    "class": "tank"
+  },
+  {
+    "name": "Ainz Ooal Gown",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "QUEEN",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "strength",
+    "class": "warrior"
+  },
+  {
+    "name": "JOKER",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Merlin",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "support"
+  },
+  {
+    "name": "Leonardo",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Melusina",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Joan of Arc",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "strength",
+    "class": "support"
+  },
+  {
+    "name": "Geralt",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "warrior"
+  },
+  {
+    "name": "Yennefer",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Mulan",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "agility",
+    "class": "ranger"
+  },
+  {
+    "name": "Emilia",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "intelligence",
+    "class": "mage"
+  },
+  {
+    "name": "Rem",
+    "tier": "ascended",
+    "faction": "dimensional",
+    "type": "strength",
+    "class": "warrior"
+  }
+]

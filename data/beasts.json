@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Dreary Ball",
+    "tier": "rare"
+  },
+  {
+    "name": "Tufty Ears",
+    "tier": "rare"
+  },
+  {
+    "name": "Grassy Orb",
+    "tier": "rare"
+  },
+
+  {
+    "name": "Polar Beast",
+    "tier": "elite"
+  },
+  {
+    "name": "Fire Breather",
+    "tier": "elite"
+  },
+  {
+    "name": "Blade Ridge",
+    "tier": "elite"
+  },
+  {
+    "name": "Winged Lion",
+    "tier": "elite"
+  },
+  {
+    "name": "Rock Crown Lizard",
+    "tier": "elite"
+  },
+  {
+    "name": "Feline Vesperio",
+    "tier": "elite"
+  },
+  {
+    "name": "Bellbellow",
+    "tier": "elite"
+  },
+  {
+    "name": "Flutterplume Owl",
+    "tier": "elite"
+  },
+  {
+    "name": "Talismane",
+    "tier": "elite"
+  },
+  {
+    "name": "Phantasmoth",
+    "tier": "elite"
+  },
+  {
+    "name": "Savage Souffle",
+    "tier": "elite"
+  },
+  {
+    "name": "Slumber Seal",
+    "tier": "elite"
+  },
+  {
+    "name": "Fox Fatale",
+    "tier": "elite"
+  }
+]
